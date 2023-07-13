@@ -1,3 +1,6 @@
+THIS IS CUSTOMIZE FROM ORIGIN https://github.com/richardpenman/whois
+CUSTOM FOR PERSONAL USE
+
 Goal
 ====
 
